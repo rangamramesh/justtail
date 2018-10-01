@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "433228661518",
+    "firebase_url": "https://omnyelms.firebaseio.com",
+    "project_id": "omnyelms",
+    "storage_bucket": "omnyelms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433228661518:android:dd50a62d9b0e76fc",
+        "android_client_info": {
+          "package_name": "com.example.ramesh.justtail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433228661518-fo30e48dmopg23qquupmq09asdipm71h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSlkz_6FAk46Rif2fqOyXPT8xYD2HYJgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
